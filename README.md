@@ -1,2 +1,2 @@
 # Gate-Pass-Python-Project
-RUN THE VIRTUAL ENVIRONMENT ENV FOLDER.
+Make a Virtual Environment then pip install pandas, openpyxl and xlrd. 
