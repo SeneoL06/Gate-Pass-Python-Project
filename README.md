@@ -7,5 +7,7 @@ GETTING STARTED
 Run the following commands to get started:
 
 virtual env
+
 pip install pandas, openpyxl and xlrd
+
 python GatePass.py
